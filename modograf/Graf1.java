@@ -16,7 +16,6 @@ class Graf1{
         jop.showMessageDialog(null,"\nesse e o resultado da soma: " + som); 
         jop.showMessageDialog(null,"\nesse e o resultado da subtracao: " + sub);
         jop.showMessageDialog(null,"\nesse e o resultado da divisao: " + div);
-        jop.showMessageDialog(null,"\nesse e o resultado da multiplicacao: " + mul);
-//-------------------------------------------------------------------------------------------
+        jop.showMessageDialog(null,"\nesse e o resultado da multiplicacao: " + mul)
     }
 }
